@@ -12,3 +12,6 @@ Daataset terdiri dari empat kelas (none, netral, negatif, positif) untuk setiap 
 - '1' : positif <br>
 
 Jumlah dari setiap kelas beragam untuk setiap aspek.
+
+Catatan:<br>
+Data ulasan Google Maps yang digunakan dalam penelitian ini sebelum dianotasi adalah sebanyak 5592 ulasan. Sedangkan data ulasan Tripadvisor yang digunakan dalam penelitian sebelum dianotasi adalah sebanyak 3000 ulasan, sehingga totalnya 8592 ulasan. Setelah dianotasi total datanya adalah 6743 ulasan. 
