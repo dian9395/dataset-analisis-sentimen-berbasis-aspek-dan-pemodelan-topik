@@ -6,9 +6,9 @@ Dataset terdiri dari enam kolom data: id, lokasi, text, daya_tarik (attractions)
 
 Daataset terdiri dari empat kelas (none, netral, negatif, positif) untuk setiap aspek.
 
-'-' : none
-'0' : netral
-'-1': negatif
-'1' : positif
+- '-' : none <br>
+- '0' : netral <br>
+- '-1': negatif <br>
+- '1' : positif <br>
 
 Jumlah dari setiap kelas beragam untuk setiap aspek.
