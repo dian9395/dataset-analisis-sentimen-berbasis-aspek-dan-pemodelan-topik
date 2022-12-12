@@ -1,12 +1,14 @@
+# Dataset untuk Analisis Sentimen Berbasis Aspek dan Pemodelan Topik pada Candi Borobudur dan Candi Prambanan
+(Dataset for Aspect-Based Sentiment Analysis and Topic Modelling on Borobudur Temple and Prambanan Temples)
 
-Dataset
-The dataset is a nine-column data of: id, location, text, daya_tarik (attractions), amenitas (amenities), aksesibilitas (accessibility), citra (image), harga (price), and sdm (human resources), consists of 6743 reviews of Borobudur and Prambanan Temples in Indonesian and English from Google Maps and Tripadvisor.
+<br>Dataset<b><br>
+Dataset terdiri dari enam kolom data: id, lokasi, text, daya_tarik (attractions), amenitas (amenities), aksesibilitas (accessibility), citra (image), harga (price), dan sdm (human resources), terdiri dari 6743 ulasan pada Candi Borobudur dan Candi Prambanan dalam bahasa Indonesia dan bahasa Inggris dari Google Maps dan Tripadvisor.
 
-The dataset consists of four classes (none, neutral, negative, positive) for each aspect.
+Daataset terdiri dari empat kelas (none, netral, negatif, positif) untuk setiap aspek.
 
 '-' : none
-'0' : neutral
-'-1': negative
-'1' : positive
+'0' : netral
+'-1': negatif
+'1' : positif
 
-The number of each class is vary for each aspect.
+Jumlah dari setiap kelas beragam untuk setiap aspek.
